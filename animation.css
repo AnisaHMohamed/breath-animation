@@ -1,0 +1,7 @@
+.breathe {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  animation-name: breath-animation;
+  animation: breath-animation 7s infinite;
+}
